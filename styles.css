@@ -1,0 +1,48 @@
+/* CSS in styles.css */
+header {
+    background-color: #333; 
+    color: white; 
+  border-radius: 15px;
+    font-size: 15
+}
+
+nav ul {
+    list-style: none; 
+    padding: 0; 
+    text-align: center; 
+}
+
+nav ul li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 20px; 
+}
+
+h1 {
+  font-family: arial
+}
+
+body {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
+
+body {
+    background-image: url('https://t3.ftcdn.net/jpg/04/39/81/58/360_F_439815862_jUpxcUG0mwbCncVOWswnx97kXQzvjeKI.jpg');
+background-size: 100% 750px;
+  background-attachment: fixed;
+}
