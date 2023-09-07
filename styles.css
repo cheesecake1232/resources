@@ -1,15 +1,19 @@
-/* CSS in styles.css */
+
+body {
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+
 header {
-    background-color: #333; 
-    color: white; 
-  border-radius: 15px;
+     color: white; 
+  border-radius: 20px;
     font-size: 15
 }
 
 nav ul {
     list-style: none; 
-    padding: 0; 
-    text-align: center; 
+    padding: 5; 
+    text-align: left; 
 }
 
 nav ul li {
@@ -21,14 +25,15 @@ nav ul li a {
     text-decoration: none; 
     color: white; 
     font-size: 20px; 
+  font-family: badang
 }
 
 h1 {
-  font-family: arial
+  font-family: century gothic
 }
 
 body {
-    background-color: black;
+    background-color: white;
     color: white;
     padding: 10px;
     border-radius: 15px;
@@ -42,7 +47,7 @@ p {
 }
 
 body {
-    background-image: url('https://t3.ftcdn.net/jpg/04/39/81/58/360_F_439815862_jUpxcUG0mwbCncVOWswnx97kXQzvjeKI.jpg');
+    background-image: url('https://static.vecteezy.com/system/resources/previews/021/430/833/non_2x/abstract-colorful-dark-blue-and-purple-gradient-blurred-background-night-sky-gradient-blue-gradation-wallpaper-for-background-themes-abstract-background-in-purple-and-blue-tones-web-design-banner-vector.jpg');
 background-size: 100% 750px;
   background-attachment: fixed;
 }
